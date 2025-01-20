@@ -5,7 +5,7 @@ This project is a Movie Database application implemented in **C++** using the **
 ## Features
 
 - **Movie Management**:
-  - Add, update, delete, and list movies in the database.
+  - Add, update, delete and list movies in the database.
   - Store and retrieve movie data persistently using file handling.
 
 - **Graphical User Interface**:
@@ -18,7 +18,7 @@ This project is a Movie Database application implemented in **C++** using the **
 ## Tools and Techniques Used
 
 - **Object-Oriented Programming**:
-  - Utilized inheritance, polymorphism, and encapsulation for modular and reusable code.
+  - Utilized inheritance, polymorphism and encapsulation for modular and reusable code.
   
 - **Smart Pointers**:
   - Managed memory safely using RAII principles with C++ smart pointers.
@@ -27,7 +27,7 @@ This project is a Movie Database application implemented in **C++** using the **
   - Enabled persistent storage for movie data.
 
 - **Qt Framework**:
-  - Used for GUI development, leveraging layouts, widgets, and the signals-and-slots mechanism.
+  - Used for GUI development, leveraging layouts, widgets and the signals-and-slots mechanism.
   
 - **Model-View Architecture**:
   - Separated data from its visual representation for efficient and scalable user interfaces.
